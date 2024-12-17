@@ -1,6 +1,7 @@
 ## Exercise 0.4
 
 ### Diagram:
+```mermaid
 sequenceDiagram
     participant browser
     participant server
@@ -62,6 +63,7 @@ sequenceDiagram
 ## Exercise 0.5
 
 ### Diagram:
+```mermaid
 sequenceDiagram
     participant browser
     participant server
@@ -91,6 +93,7 @@ sequenceDiagram
 ## Exercise 0.6
 
 ### Diagram:
+```mermaid
 sequenceDiagram
     participant browser
     participant server
