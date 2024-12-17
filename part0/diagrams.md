@@ -60,6 +60,7 @@ sequenceDiagram
     deactivate server
 
 
+
 ## Exercise 0.5
 
 ### Diagram:
@@ -88,6 +89,7 @@ sequenceDiagram
     activate server
     server-->>browser: [{ "content": "hello", "date": "2024-12-1" }, ... ]
     deactivate server
+
 
 
 ## Exercise 0.6
