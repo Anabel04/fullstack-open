@@ -1,0 +1,9 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# IDE configurations
+.vscode/
+.DS_Store
